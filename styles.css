@@ -1,0 +1,191 @@
+body{
+    background-color: white;
+}
+
+h1{
+    font-family: 'Chakra Petch', sans-serif;
+font-family: 'Marcellus', serif;
+font-family: 'Maven Pro', sans-serif;
+}
+h3{
+
+    font-family: 'Chakra Petch', sans-serif;
+font-family: 'Marcellus', serif;
+font-family: 'Maven Pro', sans-serif;
+}
+p{
+    font-family: 'Chakra Petch', sans-serif;
+font-family: 'Gilda Display', serif;
+font-family: 'Marcellus', serif;
+font-family: 'Maven Pro', sans-serif;
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+    
+  }
+  #title{
+    background-color: white;
+    color: black;
+  }
+  .container1{
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+   
+  }
+
+  .vdo{
+    margin-top: 20px;
+
+  }
+  #video{
+    align-items: center;
+  }
+
+  .button{
+
+    margin-top: 20px;
+    /* margin-left: 15%; */
+    margin-bottom: 40px;
+    
+}
+.button button{
+padding:9px 14px ;
+border-radius:22px ;
+color: white;
+background-color: black;
+font-weight: bold;
+font-size: 21px;
+margin:0 3px
+}
+.button button:hover{
+    color: black;
+    background-color: white;
+}
+.span{
+    margin-bottom: 60px;
+}
+
+.feature{
+    margin-top: 40px;
+}
+.tb1{
+    background-color: black;
+    color: white;
+}
+
+#img{
+    max-width: 100%;
+    margin-right: 0px;
+}
+
+#battery{
+    width:100%;
+}
+
+#dsp1{
+    /* margin-top: 20%; */
+    /* margin-left: 0; */
+    padding-top: 20%;
+}
+#adj1{
+    margin-bottom: 40px;
+    margin-top: 50px;
+}
+#adj2{
+    text-align: center;
+}
+#spcs{
+    
+    color: black;
+}
+
+#features{
+    /* padding: 7% 15%;
+    background-color: #fff; */
+    position: relative;
+  
+  }
+  /* .feature-box{
+    position: relative;
+  } */
+  #feature-box1{
+    position: absolute;
+    margin-left: 55%;
+    margin-top: 30%;
+    text-align:left;
+    padding: 5%;
+  }
+  .gap{
+    margin-top: 40px;
+    margin-bottom: 70px;
+  }
+#lst1{
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+    #lst1{
+        text-align: center;
+        
+        padding-bottom:30px ;
+    }
+
+h2{
+    font-family: 'Monoton', cursive;
+}
+
+.push{
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#addtocart{
+    border-radius: 22px;
+}
+/* for buy */
+
+
+
+
+/* #image{
+    position: relative;
+    
+} */
+#edt{
+    width:50%;
+    /* margin-top:10%; */
+}
+/* #dsp{
+    position: absolute;
+   margin-top:50px;
+    margin-left:80%;
+} */
+
+.lit{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+/* #bt1{
+    margin-top: 40px;
+    margin-right: 20;
+    padding-left: 20px;
+    padding-right: 20px;
+} */
+.prd{
+    position: relative;
+}
+.prdsp{
+    position: absolute;
+    top:0;
+    margin-left:40px;
+    
+}
+/* #addtocart{
+    margin-left: 0;
+} */
+
